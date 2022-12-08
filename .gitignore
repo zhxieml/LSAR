@@ -1,0 +1,11 @@
+# Data
+download/
+data/
+res/
+
+# Python
+*.pyc
+
+# IDE
+.vscode/
+*.code-workspace
